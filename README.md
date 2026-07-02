@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
