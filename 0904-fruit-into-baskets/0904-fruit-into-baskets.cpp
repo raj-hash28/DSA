@@ -13,9 +13,7 @@ public:
 
             while(f.size() > 2){
                 f[fruits[low]]--;
-                if(f[fruits[low]] == 0){
-                    f.erase(fruits[low]);
-                }
+                if(f[fruits[low]] == 0) f.erase(fruits[low]);
                 low++;
             }
 
