@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raj-hash28/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raj-hash28/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/raj-hash28/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/raj-hash28/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raj-hash28/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/raj-hash28/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
