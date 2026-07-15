@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raj-hash28/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/raj-hash28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/raj-hash28/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raj-hash28/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/raj-hash28/DSA/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raj-hash28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-hash28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/raj-hash28/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/raj-hash28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/raj-hash28/DSA/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raj-hash28/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
