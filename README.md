@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/raj-hash28/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/raj-hash28/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
+| [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/raj-hash28/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/raj-hash28/DSA/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/raj-hash28/DSA/tree/master/0904-fruit-into-baskets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raj-hash28/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/raj-hash28/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/raj-hash28/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raj-hash28/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raj-hash28/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/raj-hash28/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/raj-hash28/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
