@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/raj-hash28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/raj-hash28/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raj-hash28/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/raj-hash28/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raj-hash28/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raj-hash28/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/raj-hash28/DSA/tree/master/0152-maximum-product-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/raj-hash28/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raj-hash28/DSA/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
 ## Binary Search
