@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/raj-hash28/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raj-hash28/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/raj-hash28/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/raj-hash28/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raj-hash28/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/raj-hash28/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/raj-hash28/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/raj-hash28/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/raj-hash28/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
