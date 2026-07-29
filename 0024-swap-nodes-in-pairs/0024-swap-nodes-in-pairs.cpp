@@ -10,23 +10,59 @@
  */
 class Solution {
 public:
+#define null NULL
+#define Node ListNode
+void reverse(Node* head, int times){
+    Node* curr = head;
+    Node* prev = null;
+
+    while(times--){
+        Node* nex = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = nex;
+    }
+    return;
+}
     ListNode* swapPairs(ListNode* head) {
-        ListNode dummy(0);
-        dummy.next = head;
-
-        ListNode* prev = &dummy;
-
-        while(prev->next != NULL && prev->next->next != NULL) {
-            ListNode* first = prev->next;
-            ListNode* second = prev->next->next;
-
-            first->next = second->next;
-            second->next = first;
-            prev->next = second;
-
-            prev = first;
+        if(head == null){
+            return head;
         }
+        Node* left=head;
+        Node* right;
+        Node* prevleft=null;
+        Node* res=null;
+        int size=2;
 
-        return dummy.next;
+        while(true){
+            right=left;
+            for(int i=0; i<size-1;i++){
+                if(right==null)
+                break;
+                right=right->next;
+            }
+            if(right){ //left right mil chuke hai
+                Node* nextleft = right->next;
+                reverse(left, size);
+
+                if(prevleft)
+                prevleft->next = right;
+                prevleft = left;
+
+                if(res==null)
+                res = right;
+
+                left = nextleft;
+            }
+            else{
+                if(prevleft)
+                prevleft->next = left;
+                if(res == null)
+                res=left;
+
+                break;
+            }
+        }
+        return res;
     }
 };
