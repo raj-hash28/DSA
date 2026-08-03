@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/raj-hash28/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-hash28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/raj-hash28/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raj-hash28/DSA/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/raj-hash28/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/raj-hash28/DSA/tree/master/0383-ransom-note) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raj-hash28/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raj-hash28/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raj-hash28/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raj-hash28/DSA/tree/master/0152-maximum-product-subarray) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raj-hash28/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/raj-hash28/DSA/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/raj-hash28/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/raj-hash28/DSA/tree/master/0409-longest-palindrome) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raj-hash28/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
