@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/raj-hash28/DSA/tree/master/0202-happy-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raj-hash28/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
 | ------- |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raj-hash28/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
