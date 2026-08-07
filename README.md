@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/raj-hash28/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3731-find-missing-elements](https://github.com/raj-hash28/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
