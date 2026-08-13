@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raj-hash28/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/raj-hash28/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj-hash28/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/raj-hash28/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raj-hash28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raj-hash28/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raj-hash28/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/raj-hash28/DSA/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
