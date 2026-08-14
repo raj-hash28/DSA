@@ -38,9 +38,10 @@ public:
                 res.push_back(p2.second);
                 seat++;
                 p2.first--;
+                pq.push(p);
 
                 if(p2.first > 0) pq.push(p2);
-                pq.push(p);
+                //pq.push(p);
             }
         }
         return res;
