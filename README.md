@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/raj-hash28/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj-hash28/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/raj-hash28/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raj-hash28/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/raj-hash28/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raj-hash28/DSA/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/raj-hash28/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
