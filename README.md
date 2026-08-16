@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/raj-hash28/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/raj-hash28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/raj-hash28/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/raj-hash28/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/raj-hash28/DSA/tree/master/0739-daily-temperatures) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-hash28/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/raj-hash28/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj-hash28/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/raj-hash28/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/raj-hash28/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/raj-hash28/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/raj-hash28/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/raj-hash28/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raj-hash28/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/raj-hash28/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/raj-hash28/DSA/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/raj-hash28/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raj-hash28/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raj-hash28/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/raj-hash28/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-hash28/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/raj-hash28/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
