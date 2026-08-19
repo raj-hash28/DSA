@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/raj-hash28/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-hash28/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/raj-hash28/DSA/tree/master/0436-find-right-interval) |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/raj-hash28/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/raj-hash28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/raj-hash28/DSA/tree/master/0525-contiguous-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/raj-hash28/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raj-hash28/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/raj-hash28/DSA/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raj-hash28/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raj-hash28/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/raj-hash28/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/raj-hash28/DSA/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raj-hash28/DSA/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/raj-hash28/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/raj-hash28/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/raj-hash28/DSA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raj-hash28/DSA/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
@@ -334,18 +338,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
