@@ -1,24 +1,30 @@
 class Solution {
 public:
-    vector<string> ans;
-
-    void solve(int open, int close, int n, string s) {
-        if(s.size() == 2 * n) {
-            ans.push_back(s);
+    void helper(int open, int close, int n, string& temp, vector<string>& res){
+        if(open == n and close == n){
+            res.push_back(temp);
             return;
+        } 
+
+        if(open < n){
+            temp.push_back('(');
+            helper(open+1, close, n, temp, res);
+            temp.pop_back();
         }
 
-        if(open < n) {
-            solve(open + 1, close, n, s + '(');
+        if(close < open){
+            temp.push_back(')');
+            helper(open, close+1, n, temp, res);
+            temp.pop_back();
         }
 
-        if(close < open) {
-            solve(open, close + 1, n, s + ')');
-        }
+        return;
     }
-
     vector<string> generateParenthesis(int n) {
-        solve(0, 0, n, "");
-        return ans;
+        string temp = "";
+        vector<string> res;
+        helper(0, 0, n, temp, res);
+
+        return res;
     }
 };
