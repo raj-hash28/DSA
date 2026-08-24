@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/raj-hash28/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raj-hash28/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raj-hash28/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raj-hash28/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -366,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/raj-hash28/DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
