@@ -2,8 +2,8 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> ans(n, 0);
-        vector<int> res(n, 0);
+        vector<int> ans(n);
+        vector<int> res(n);
         res[n-1] = nums[n-1];
         ans[0] = nums[0];
 
