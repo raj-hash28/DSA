@@ -13,41 +13,45 @@ class Solution {
 public:
     #define null NULL
 
-    int sum = 0; 
-    int count = 0;
-
-    void helper(TreeNode* root){
-        if(root == null) return;
-
-        sum += root->val;
-        count++;
-
-        helper(root->left);
-        helper(root->right);
-    }
-    int averageOfSubtree(TreeNode* root) {
-        int ans = 0;
+    int helper(TreeNode* root){
         queue<TreeNode*> q;
+
         q.push(root);
-        vector<int> tmp;
+        int sum = 0; int count = 0;
 
         while(!q.empty()){
             TreeNode* t = q.front();
             q.pop();
-            helper(t);
-            int avg = sum/count;
 
-            if(avg == t->val){
-                ans++;
-            }
+            sum += t->val;
+            count++;
 
             if(t->left != null) q.push(t->left);
             if(t->right != null) q.push(t->right);
+        }
 
-            sum = 0; 
-            count = 0;
+        int avg = sum/count;
+        if(avg == root->val) {
+            return 1;
+        }
+        return 0;
+    }
+    int averageOfSubtree(TreeNode* root) {
+        queue<TreeNode*> q;
+
+        q.push(root);
+        int ans = 0;
+
+        while(!q.empty()){
+            TreeNode* t = q.front();
+            q.pop();
+            ans += helper(t);
+
+            if(t->left != null) q.push(t->left);
+            if(t->right != null) q.push(t->right);
         }
 
         return ans;
+    
     }
 };
