@@ -14,25 +14,25 @@ public:
     #define null NULL
 
     vector<vector<int>> res;
-    vector<int> diary;
+    vector<int> path;
     void helper(TreeNode* root, int sum, int target){
         if(root == null){
             return;
         }
 
         sum = sum+root->val;
-        diary.push_back(root->val);
+        path.push_back(root->val);
 
         if(root->left == null and root->right == null){
             if(sum == target){
-                res.push_back(diary);
-                diary.pop_back();
+                res.push_back(path);
+                path.pop_back();
                 return;
             }
         }
         helper(root->left, sum, target);
         helper(root->right, sum, target);
-        diary.pop_back();
+        path.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int target) {
         helper(root, 0, target);
