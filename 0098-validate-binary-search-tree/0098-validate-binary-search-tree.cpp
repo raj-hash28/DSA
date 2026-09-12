@@ -12,26 +12,27 @@
 class Solution {
 public:
     #define null NULL
-    
-    void helper(TreeNode* root, vector<int>& res){
+    TreeNode* prev = null;
+    bool ans = true;
+    void helper(TreeNode* root){
         if(root == null){
             return;
         }
 
-        helper(root->left, res);
-        res.push_back(root->val);
-        helper(root->right, res);
-        return;
+        helper(root->left);
+        if(prev == null){
+            prev = root;
+        }
+        else{
+            if(root->val <= prev->val){
+                ans = false;
+            }
+            prev = root;
+        }
+        helper(root->right);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> res;
-        helper(root, res);
-
-        for(int i = 0; i < res.size()-1; i++){
-            if(res[i] >= res[i+1]){
-                return false;
-            }
-        }
-        return true;
+        helper(root);
+        return ans;
     }
 };
