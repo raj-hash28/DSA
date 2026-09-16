@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raj-hash28/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/raj-hash28/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raj-hash28/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raj-hash28/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/raj-hash28/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raj-hash28/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/raj-hash28/DSA/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raj-hash28/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raj-hash28/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/raj-hash28/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raj-hash28/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raj-hash28/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
