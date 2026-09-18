@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-hash28/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-hash28/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj-hash28/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/raj-hash28/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raj-hash28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raj-hash28/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raj-hash28/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/raj-hash28/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj-hash28/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-hash28/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raj-hash28/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raj-hash28/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/raj-hash28/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raj-hash28/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/raj-hash28/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
