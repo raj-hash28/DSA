@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/raj-hash28/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/raj-hash28/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-hash28/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/raj-hash28/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raj-hash28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/raj-hash28/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/raj-hash28/DSA/tree/master/1927-sum-game) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/raj-hash28/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/raj-hash28/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raj-hash28/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/raj-hash28/DSA/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/raj-hash28/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/raj-hash28/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/raj-hash28/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raj-hash28/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raj-hash28/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/raj-hash28/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/raj-hash28/DSA/tree/master/0113-path-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raj-hash28/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raj-hash28/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raj-hash28/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj-hash28/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
