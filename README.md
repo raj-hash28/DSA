@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/raj-hash28/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raj-hash28/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/raj-hash28/DSA/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/raj-hash28/DSA/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/raj-hash28/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/raj-hash28/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1386-cinema-seat-allocation](https://github.com/raj-hash28/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/raj-hash28/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raj-hash28/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/raj-hash28/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj-hash28/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/raj-hash28/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raj-hash28/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/raj-hash28/DSA/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/raj-hash28/DSA/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raj-hash28/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raj-hash28/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
