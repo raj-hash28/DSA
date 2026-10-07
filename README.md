@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raj-hash28/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/raj-hash28/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/raj-hash28/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/raj-hash28/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raj-hash28/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/raj-hash28/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/raj-hash28/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/raj-hash28/DSA/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raj-hash28/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raj-hash28/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/raj-hash28/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raj-hash28/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/raj-hash28/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
