@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raj-hash28/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raj-hash28/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/raj-hash28/DSA/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/raj-hash28/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raj-hash28/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/raj-hash28/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/raj-hash28/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/raj-hash28/DSA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/raj-hash28/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raj-hash28/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/raj-hash28/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -717,4 +721,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raj-hash28/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/raj-hash28/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
